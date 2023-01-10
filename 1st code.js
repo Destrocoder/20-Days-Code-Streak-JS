@@ -1,4 +1,4 @@
-You talked to Polycarp and asked him a question. You know that when he wants to answer "yes", he repeats Yes many times in a row.
+/*You talked to Polycarp and asked him a question. You know that when he wants to answer "yes", he repeats Yes many times in a row.
 
 Because of the noise, you only heard part of the answer — some substring of it. That is, if he answered YesYes, then you could hear esY, YesYes, sYes, e, but you couldn't Yess, YES or se.
 
@@ -41,7 +41,7 @@ NO
 NO
 YES
 NO
-YES
+YES */
 
 
 
